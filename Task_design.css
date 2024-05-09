@@ -1,0 +1,18 @@
+/*.main-box{
+       border: 1px solid black;
+       width: 100%;
+       height: 300px;
+}*/
+.first-box{
+       border: 1px solid black;
+       width: 100%;
+       height: 300px;
+       display: inline-block;
+}
+.second-box{
+       border: 1px solid black;
+       width: 100%;
+       height: 300px;
+       display: inline-block;
+}
+
